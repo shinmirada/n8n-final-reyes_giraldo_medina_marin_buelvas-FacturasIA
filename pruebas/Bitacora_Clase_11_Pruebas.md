@@ -103,8 +103,8 @@ Cada caso conserva entrada, resultado observado y archivo concreto. **Criterio d
 | P-04 | Idempotencia, errores API y registro repetido | Roberto Carlos Medina | **Pendiente**: receptor controlado con duplicados/503 y regla de reintento documentada |
 | P-05 | Aislamiento de sesiones del agente | Dilan Andrés Buelvas | **Pendiente**: dos sesiones separadas sin mezcla de contexto |
 | P-06 | Destino real Apps Script/Sheets con permisos | Roberto Carlos Medina | **No implementado en corte final**: requiere desarrollo y verificación productiva |
-| P-07 | Verificar claves y capturas compartidas previamente | Todo el grupo | **Antes de publicar**: rotar valores expuestos y evitar trazas con cabeceras |
-| P-08 | Publicación de repo GitHub y comprobación sin sesión | Todo el grupo | **Pendiente**: URL del repositorio real y acceso público |
+| P-07 | Verificar claves y capturas compartidas previamente | Todo el grupo | **Publicación revisada**: se seleccionaron capturas sin valores secretos; **pendiente de confirmar** la rotación de cualquier clave expuesta en material histórico. |
+| P-08 | Publicación de repositorio GitHub y comprobación sin sesión | Todo el grupo | **Publicación realizada**: [repositorio público](https://github.com/shinmirada/n8n-final-reyes_giraldo_medina_marin_buelvas-FacturasIA) con 26 archivos y cinco entregables. **Pendiente únicamente**: verificación manual de acceso en incógnito sin sesión. |
 
 ### 6.1. Cierre de pendientes cubiertos durante la clase
 
