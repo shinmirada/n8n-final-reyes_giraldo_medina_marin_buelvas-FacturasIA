@@ -1,0 +1,4 @@
+Prueba PF-20 - resultado textual aportado durante la sesión del 16/11/2026
+Entrada sintética: FAC-005; monto -100; estado pendiente.
+Salida informada por PowerShell: HTTP: 400
+No constituye una captura de terminal ni un archivo de log de n8n; la configuración de respuesta consta en PF20_Configuracion_Respuesta_400_SIN_CLAVE.png.
