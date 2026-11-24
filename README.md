@@ -123,6 +123,3 @@ Para producción, se podría implementar un endpoint propio, por ejemplo **Googl
 - Persisten pendientes de pruebas específicas de fronteras, observaciones excesivas, caída de Gemini, aislamiento entre sesiones y reimportación limpia.
 - Ningún archivo contiene una API Key o valor de `Header Auth`. Las evidencias incluidas se seleccionaron sin secretos; **si una clave se expuso previamente, debe rotarse** antes de cualquier uso fuera del entorno local.
 
-## 11. Publicación del repositorio
-
-**Repositorio publicado (visibilidad pública confirmada):** [n8n-final-reyes_giraldo_medina_marin_buelvas-FacturasIA](https://github.com/shinmirada/n8n-final-reyes_giraldo_medina_marin_buelvas-FacturasIA). Se comprobó que los 26 archivos están en la rama `main`, que los cinco entregables obligatorios existen y que las rutas relativas del README apuntan a sus destinos. Antes de responder al comentario de entrega, el equipo debe abrir el enlace también en una ventana de incógnito para comprobar el acceso sin sesión. La importación del JSON saneado en una instancia separada sigue pendiente de documentar.
